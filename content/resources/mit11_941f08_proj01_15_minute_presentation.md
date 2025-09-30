@@ -6,6 +6,8 @@ description: "Example of student work for the final research paper assignment of
 file: /courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/52ab13d63dbcf84c0c38bd165a105f39_MIT11_941f08_proj01_15_minute_presentation.pdf
 file_size: 2996274
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

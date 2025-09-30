@@ -6,6 +6,8 @@ description: "Example of student work: a 15 minute audio-visual presentation on 
 file: /courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/960f795e3557fd8c18f5c97e4a40597d_MIT11_941f08_proj02_final_paper.pdf
 file_size: 922060
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
